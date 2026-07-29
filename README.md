@@ -17,8 +17,8 @@ I started this challenge to build the habit of coding every day. Over the next 3
 |-----|-------|--------|
 | Day 01 | Linear Search | ✅ Completed |
 | Day 02 | Binary Search | ✅ Completed |
-| Day 03 | Bubble Sort | ⏳ Coming Soon |
-| Day 04 | Selection Sort | ⏳ Coming Soon |
+| Day 03 | Bubble Sort | ✅ Completed |
+| Day 04 | Selection Sort | ✅ Completed |
 | Day 05 | Insertion Sort | ⏳ Coming Soon |
 | Day 06 | Merge Sort | ⏳ Coming Soon |
 | Day 07 | Quick Sort | ⏳ Coming Soon |
