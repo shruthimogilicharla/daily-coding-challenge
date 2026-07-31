@@ -8,6 +8,7 @@ void merge(int a[], int l, int m, int r) {
     int n2 = r - m;
 
     int L[n1], R[n2];
+    
 
     for (i = 0; i < n1; i++)
         L[i] = a[l + i];
