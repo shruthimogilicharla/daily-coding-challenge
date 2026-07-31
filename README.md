@@ -19,10 +19,10 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 02 | Binary Search | ✅ Completed |
 | Day 03 | Bubble Sort | ✅ Completed |
 | Day 04 | Selection Sort | ✅ Completed |
-| Day 05 | Insertion Sort | ⏳ Coming Soon |
-| Day 06 | Merge Sort | ⏳ Coming Soon |
-| Day 07 | Quick Sort | ⏳ Coming Soon |
-| Day 08 | Arrays | ⏳ Coming Soon |
+| Day 05 | Insertion Sort | ✅ Completed  |
+| Day 06 | Merge Sort |✅ Completed  |
+| Day 07 | Quick Sort |✅ Completed |
+| Day 08 | Arrays |✅ Completed  |
 | Day 09 | Strings | ⏳ Coming Soon |
 | Day 10 | Recursion | ⏳ Coming Soon |
 | Day 11 | Singly Linked List | ⏳ Coming Soon |
