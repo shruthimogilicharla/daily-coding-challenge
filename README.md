@@ -22,9 +22,9 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 05 | Insertion Sort | ✅ Completed  |
 | Day 06 | Merge Sort |✅ Completed  |
 | Day 07 | Quick Sort |✅ Completed |
-| Day 08 | Arrays |✅ Completed  |
-| Day 09 | Strings | ⏳ Coming Soon |
-| Day 10 | Recursion | ⏳ Coming Soon |
+| Day 08 | Arrays |✅ Completed |
+| Day 09 | Strings | ✅ Completed |
+| Day 10 | Recursion | ✅ Completed |
 | Day 11 | Singly Linked List | ⏳ Coming Soon |
 | Day 12 | Doubly Linked List | ⏳ Coming Soon |
 | Day 13 | Circular Linked List | ⏳ Coming Soon |
