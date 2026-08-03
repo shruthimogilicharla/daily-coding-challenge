@@ -27,8 +27,8 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 10 | Recursion | ✅ Completed |
 | Day 11 | Singly Linked List | ✅ Completed |
 | Day 12 | Doubly Linked List |✅ Completed  |
-| Day 13 | Circular Linked List | ⏳ Coming Soon |
-| Day 14 | Stack | ⏳ Coming Soon |
+| Day 13 | Circular Linked List | ✅ Completed  |
+| Day 14 | Stack |✅ Completed   |
 | Day 15 | Queue | ⏳ Coming Soon |
 | Day 16 | Circular Queue | ⏳ Coming Soon |
 | Day 17 | Deque | ⏳ Coming Soon |
