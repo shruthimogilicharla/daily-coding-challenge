@@ -28,9 +28,9 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 11 | Singly Linked List | ✅ Completed |
 | Day 12 | Doubly Linked List |✅ Completed  |
 | Day 13 | Circular Linked List | ✅ Completed  |
-| Day 14 | Stack |✅ Completed   |
-| Day 15 | Queue | ⏳ Coming Soon |
-| Day 16 | Circular Queue | ⏳ Coming Soon |
+| Day 14 | Stack |✅ Completed |
+| Day 15 | Queue | ✅ Completed |
+| Day 16 | Circular Queue | ✅ Completed |
 | Day 17 | Deque | ⏳ Coming Soon |
 | Day 18 | Binary Tree | ⏳ Coming Soon |
 | Day 19 | Binary Search Tree | ⏳ Coming Soon |
