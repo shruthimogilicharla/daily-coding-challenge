@@ -31,10 +31,10 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 14 | Stack |✅ Completed |
 | Day 15 | Queue | ✅ Completed |
 | Day 16 | Circular Queue | ✅ Completed |
-| Day 17 | Deque | ⏳ Coming Soon |
-| Day 18 | Binary Tree | ⏳ Coming Soon |
-| Day 19 | Binary Search Tree | ⏳ Coming Soon |
-| Day 20 | Tree Traversals | ⏳ Coming Soon |
+| Day 17 | Deque | ✅ Completed |
+| Day 18 | Binary Tree |✅ Completed|
+| Day 19 | Binary Search Tree | ✅ Completed |
+| Day 20 | Tree Traversals |✅ Completed |
 | Day 21 | Heap | ⏳ Coming Soon |
 | Day 22 | Graph - BFS | ⏳ Coming Soon |
 | Day 23 | Graph - DFS | ⏳ Coming Soon |
