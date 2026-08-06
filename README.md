@@ -35,9 +35,9 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 18 | Binary Tree |✅ Completed|
 | Day 19 | Binary Search Tree | ✅ Completed |
 | Day 20 | Tree Traversals |✅ Completed |
-| Day 21 | Heap | ⏳ Coming Soon |
-| Day 22 | Graph - BFS | ⏳ Coming Soon |
-| Day 23 | Graph - DFS | ⏳ Coming Soon |
+| Day 21 | Heap | ✅ Completed |
+| Day 22 | Graph - BFS | ✅ Completed  |
+| Day 23 | Graph - DFS | ✅ Completed  |
 | Day 24 | Hashing | ⏳ Coming Soon |
 | Day 25 | Greedy Algorithms | ⏳ Coming Soon |
 | Day 26 | Dynamic Programming | ⏳ Coming Soon |
