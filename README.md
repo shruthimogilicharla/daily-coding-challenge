@@ -38,9 +38,9 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 21 | Heap | ✅ Completed |
 | Day 22 | Graph - BFS | ✅ Completed  |
 | Day 23 | Graph - DFS | ✅ Completed  |
-| Day 24 | Hashing | ⏳ Coming Soon |
-| Day 25 | Greedy Algorithms | ⏳ Coming Soon |
-| Day 26 | Dynamic Programming | ⏳ Coming Soon |
+| Day 24 | Hashing | ✅ Completed |
+| Day 25 | Greedy Algorithms |✅ Completed |
+| Day 26 | Dynamic Programming | ✅ Completed |
 | Day 27 | Backtracking | ⏳ Coming Soon |
 | Day 28 | Bit Manipulation | ⏳ Coming Soon |
 | Day 29 | Practice Problems | ⏳ Coming Soon |
