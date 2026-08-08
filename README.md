@@ -41,8 +41,8 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 24 | Hashing | ✅ Completed |
 | Day 25 | Greedy Algorithms |✅ Completed |
 | Day 26 | Dynamic Programming | ✅ Completed |
-| Day 27 | Backtracking | ⏳ Coming Soon |
-| Day 28 | Bit Manipulation | ⏳ Coming Soon |
+| Day 27 | Backtracking | ✅ Completed |
+| Day 28 | Bit Manipulation | ✅ Completed |
 | Day 29 | Practice Problems | ⏳ Coming Soon |
 | Day 30 | Final Revision | ⏳ Coming Soon |
 
