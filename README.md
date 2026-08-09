@@ -43,7 +43,7 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 26 | Dynamic Programming | ✅ Completed |
 | Day 27 | Backtracking | ✅ Completed |
 | Day 28 | Bit Manipulation | ✅ Completed |
-| Day 29 | Practice Problems | ⏳ Coming Soon |
+| Day 29 | Practice Problems | ✅ Completed |
 | Day 30 | Final Revision | ⏳ Coming Soon |
 
 ## Languages and Tools
