@@ -3,6 +3,7 @@
 void quick(int a[], int low, int high)
 {
     int i, j, pivot, temp;
+    
     if (low < high)
     {
         pivot = a[low];
