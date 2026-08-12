@@ -44,7 +44,7 @@ I started this challenge to build the habit of coding every day. Over the next 3
 | Day 27 | Backtracking | ✅ Completed |
 | Day 28 | Bit Manipulation | ✅ Completed |
 | Day 29 | Practice Problems | ✅ Completed |
-| Day 30 | Final Revision | ⏳ Coming Soon |
+| Day 30 | Final Revision | ✅ Completed  |
 
 ## Languages and Tools
 - C Programming
