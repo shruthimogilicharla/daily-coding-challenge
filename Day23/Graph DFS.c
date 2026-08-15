@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int graph[10][10], visited[10], n;
 
 void dfs(int v)
