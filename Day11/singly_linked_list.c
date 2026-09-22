@@ -4,7 +4,6 @@ struct Node {
     int data;
     struct Node *next;
 };
-
 struct Node *head = NULL;
 void insert(int x) {
     struct Node *newNode = (struct Node *)malloc(sizeof(struct Node));
