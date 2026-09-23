@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define MAX 5
 
+
 int deque[MAX];
 int front = -1, rear = -1;
 
