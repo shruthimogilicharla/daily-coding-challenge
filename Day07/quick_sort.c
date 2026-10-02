@@ -7,7 +7,6 @@ void quick(int a[], int low, int high)
         pivot = a[low];
         i = low + 1;
         j = high;
-
         while (i <= j)
         {
             while (i <= high && a[i] <= pivot)
