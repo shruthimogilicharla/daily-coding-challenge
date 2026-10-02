@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 void merge(int a[], int l, int m, int r) {
     int i, j, k;
     int n1 = m - l + 1;
