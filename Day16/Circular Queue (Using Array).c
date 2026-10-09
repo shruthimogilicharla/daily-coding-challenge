@@ -2,7 +2,6 @@
 #define MAX 5
 int cq[MAX];
 int front = -1, rear = -1;
-
 void enqueue(int value) {
     if ((rear + 1) % MAX == front) {
         printf("Queue Overflow\n");
