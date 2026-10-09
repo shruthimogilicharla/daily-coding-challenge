@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define MAX 5
-
 int cq[MAX];
 int front = -1, rear = -1;
 
