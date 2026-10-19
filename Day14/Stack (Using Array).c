@@ -2,7 +2,8 @@
 #define MAX 5
 int stack[MAX];
 int top = -1;
-void push(int x) {
+void push(int x) 
+{
     if (top == MAX - 1)
         printf("Stack Overflow\n");
     else
