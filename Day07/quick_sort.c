@@ -1,6 +1,7 @@
 #include <stdio.h>
 void quick(int a[], int low, int high)
 {
+    
     int i, j, pivot, temp;
     if (low < high)
     {
