@@ -5,7 +5,6 @@ struct Node {
     struct Node *prev;
     struct Node *next;
 };
-
 struct Node *head = NULL;
 
 void insert(int x) {
