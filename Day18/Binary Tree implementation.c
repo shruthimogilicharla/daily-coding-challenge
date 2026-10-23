@@ -6,7 +6,6 @@ struct Node
     struct Node *left;
     struct Node *right;
 };
-
 struct Node *createNode(int value)
 {
     struct Node *newNode = (struct Node *)malloc(sizeof(struct Node));
