@@ -7,7 +7,6 @@ void enqueue(int value) {
         printf("Queue Overflow\n");
         return;
     }
-
     if (front == -1)
         front = rear = 0;
     else
