@@ -9,7 +9,6 @@ void push(int x)
     else
         stack[++top] = x;
 }
-
 void pop() {
     if (top == -1)
         printf("Stack Underflow\n");
