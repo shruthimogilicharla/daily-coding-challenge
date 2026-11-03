@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() 
 {
     int a[100], n, key, low = 0, high, mid, i;
